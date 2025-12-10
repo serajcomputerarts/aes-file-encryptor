@@ -10,7 +10,18 @@ A professional, secure, and efficient file encryption utility using AES-256-CBC 
 - 🎯 **File Exclusion Patterns** - Skip specific files/patterns
 - 📊 **Progress Tracking** - Real-time progress bars
 - 📝 **Comprehensive Logging** - Detailed operation logs
+## 📸 Screenshots
 
+<div align="center">
+<p>My files:</p>
+<img src="screenshots/s1.jpg" alt="Tree" width="300">
+<p>My Lets encrypt !</p>
+<img src="screenshots/s2.jpg" alt="Tree" width="300">
+  <p>Encrypted files</p>
+<img src="screenshots/s3.jpg" alt="Tree" width="300">
+  <p>Decrypt files</p>
+<img src="screenshots/s4.jpg" alt="Tree" width="300">
+</div>
 ## 🔧 Installation
 
 ```bash
@@ -50,6 +61,3 @@ python -m unittest discover tests
 - **Use strong passwords** - Minimum 12 characters recommended
 - **Backup important data** - Always keep backups before encryption
 
-## 📄 License
-
-This project is licensed under the MIT License.
