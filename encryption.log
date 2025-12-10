@@ -1,0 +1,32 @@
+[2025-12-10 23:15:23] [ERROR] Passwords do not match
+[2025-12-10 23:15:41] [ERROR] Passwords do not match
+[2025-12-10 23:18:18] [WARNING] Password is less than 8 characters. Consider using a stronger password.
+[2025-12-10 23:18:18] [WARNING] Recommended: At least 12 characters with mix of letters, numbers, and symbols
+[2025-12-10 23:18:27] [INFO] Operation cancelled by user
+[2025-12-10 23:18:54] [INFO] Operation cancelled by user
+[2025-12-10 23:20:31] [WARNING] Password is less than 8 characters. Consider using a stronger password.
+[2025-12-10 23:20:31] [WARNING] Recommended: At least 12 characters with mix of letters, numbers, and symbols
+[2025-12-10 23:20:36] [INFO] 
+Starting encrypt operation on: examples
+[2025-12-10 23:20:36] [INFO] Found 3 files to encrypt
+[2025-12-10 23:20:36] [INFO] 
+Encryption completed:
+[2025-12-10 23:20:36] [INFO]   ✓ Successfully encrypted: 3 files
+[2025-12-10 23:20:36] [INFO]   ✗ Failed: 0 files
+[2025-12-10 23:20:36] [INFO] 
+============================================================
+[2025-12-10 23:20:36] [INFO] Operation completed successfully!
+[2025-12-10 23:20:36] [INFO] ============================================================
+[2025-12-10 23:27:56] [WARNING] Password is less than 8 characters. Consider using a stronger password.
+[2025-12-10 23:27:56] [WARNING] Recommended: At least 12 characters with mix of letters, numbers, and symbols
+[2025-12-10 23:28:10] [INFO] 
+Starting decrypt operation on: examples
+[2025-12-10 23:28:10] [INFO] Found 3 encrypted files
+[2025-12-10 23:28:10] [INFO] 
+Decryption completed:
+[2025-12-10 23:28:10] [INFO]   ✓ Successfully decrypted: 3 files
+[2025-12-10 23:28:10] [INFO]   ✗ Failed: 0 files
+[2025-12-10 23:28:10] [INFO] 
+============================================================
+[2025-12-10 23:28:10] [INFO] Operation completed successfully!
+[2025-12-10 23:28:10] [INFO] ============================================================
